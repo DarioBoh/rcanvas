@@ -7,7 +7,7 @@
 get_user_items(user_id, item)
 }
 \arguments{
-\item{user_id}{A valid canvas user id}
+\item{user_id}{A valid canvas SIS ID (numeric)}
 
 \item{item}{One of "missing_submissions", "details", "profile", "page_views", "colors", or "avatars"}
 }

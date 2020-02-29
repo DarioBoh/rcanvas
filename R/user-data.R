@@ -2,7 +2,7 @@
 #'
 #' @title Get various user items
 #'
-#' @param user_id A valid canvas user id
+#' @param user_id A valid canvas SIS ID (numeric)
 #' @param item One of "missing_submissions", "details", "profile", "page_views", "colors", or "avatars"
 #'
 #' @return data frame
